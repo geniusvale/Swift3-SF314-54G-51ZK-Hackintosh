@@ -16,14 +16,6 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>DSDT.aml</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>DSDT.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>SSDT-dGPU-Off.aml</string>
 				<key>Enabled</key>
 				<true/>
@@ -91,6 +83,14 @@
 				<string>SSDT-USBX.aml</string>
 				<key>Path</key>
 				<string>SSDT-USBX.aml</string>
+				<key>Enabled</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-I2C.aml</string>
+				<key>Path</key>
+				<string>SSDT-I2C.aml</string>
 				<key>Enabled</key>
 				<true/>
 			</dict>
