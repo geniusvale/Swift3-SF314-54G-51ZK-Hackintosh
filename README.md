@@ -10,7 +10,7 @@ Using OpenCore 0.6.8
 - HDMI + Audio
 - Camera
 - Brightness (F3 & F4)
-- Touchpad (Synaptics)
+- Touchpad (I2C)
 - USB Port (1xUSB 2.0, 2xUSB 3.0, 1xUSB Type C)
 - Intel Wifi + Bluetooth (AC7265 itlwm + Heliport)
 - SD Card Reader
