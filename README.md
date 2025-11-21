@@ -29,3 +29,6 @@ https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.
 - https://github.com/hackintosh-stuff/ComboJack?fbclid=IwAR3OdPNIv6gm6JJgruYvS07hB41cD0UqMQolJqNAVY5BxkyucZizhtZhpfo
 - https://awesomeopensource.com/project/daliansky/XiaoMi-Pro-Hackintosh
 - https://github.com/linhnguyen-gt/Hackintosh-Acer-Swift3-SF315-52G
+
+## Screenshots
+<img width="1920" height="1080" alt="ss" src="https://github.com/user-attachments/assets/72e0fb43-0e1a-4bc1-8791-620e32f6cd6e" />
